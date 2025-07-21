@@ -176,6 +176,18 @@ This experience sharpened my skills in **data analysis, Power BI, and communicat
 ## 📢 Acknowledgment  
 This project was completed as part of the **Tata Data Visualisation Virtual Experience Program** offered by **Forage**.  
 
+
+
 ---
+
+## 📜 Certificate of Completion  
+
+This project was completed as part of the **Tata Data Visualisation: Empowering Business with Effective Insights** virtual experience on **Forage**.  
+
+📄 [View Certificate](Tata%20Data%20Visualisation%20Empowering%20Business%20with%20Effective%20Insights%20program%20Certificate.pdf.pdf)  
+
+---  
+
+
 
 ## ⭐ Feel free to ⭐ star this repo if you found it useful!
