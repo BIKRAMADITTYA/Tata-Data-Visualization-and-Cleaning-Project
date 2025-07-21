@@ -103,7 +103,7 @@ Invalid Rows (UnitPrice < 0) After Cleaning: 0
 I also implemented **Page Navigation Buttons** within the dashboard to allow smooth navigation between different report pages.  
 This improves the interactivity and user experience by helping users switch between insights easily.  
 
-### 📝 Page 1 — Global Sales Overview 
+###  — Global Sales Overview 
 
 
 ![Dashboard Overview jpg](https://github.com/user-attachments/assets/3ad4199f-e8b5-48a4-a430-087e01c34b49)
@@ -177,7 +177,6 @@ This experience sharpened my skills in **data analysis, Power BI, and communicat
 This project was completed as part of the **Tata Data Visualisation Virtual Experience Program** offered by **Forage**.  
 
 
-
 ---
 
 ## 📜 Certificate of Completion  
@@ -186,7 +185,6 @@ This project was completed as part of the **Tata Data Visualisation: Empowering 
 
 📄 [View Certificate](Tata%20Data%20Visualisation%20Empowering%20Business%20with%20Effective%20Insights%20program%20Certificate.pdf.pdf)  
 
----  
 
 ---
 
