@@ -86,7 +86,8 @@ Invalid Rows (UnitPrice < 0) After Cleaning: 0
 ### 📝 Page 1 — Global Sales Overview (Including UK)  
 ![Global Sales Overview (Including UK)](Dashboard_Overview.jpg)  
 
-![Dashboard Overview jpg](https://github.com/user-attachments/assets/b46eec25-3d59-41e1-84b2-8f0113e1739a)
+![Dashboard Overview jpg](https://github.com/user-attachments/assets/3ad4199f-e8b5-48a4-a430-087e01c34b49)
+
 
 ---
 
