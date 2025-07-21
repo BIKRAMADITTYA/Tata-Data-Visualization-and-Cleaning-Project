@@ -32,6 +32,24 @@ The project aims to deliver actionable insights for business decision-makers by 
 
 ---
 
+## 📝 Project Summary (As per Program Guidelines)  
+
+This project was developed following the core objectives of the **Tata Data Visualisation: Empowering Business with Effective Insights** program on Forage.  
+
+I performed comprehensive data cleaning, handling missing values, removing invalid rows, and ensuring data quality before visualization.  
+The Power BI dashboard contains multiple pages with advanced interactivity features like page navigation buttons and slicers for easy analysis.  
+
+Key Highlights:
+- On **Page 1**, I provided a global sales overview (including the UK).  
+- On **Page 2**, I showcased a global sales overview **excluding the UK**, as per the program's recommendation.  
+- I also checked for **null values**, removed duplicates, handled **invalid rows** such as:
+  - **Invalid Rows (Quantity < 1): 10,624**  
+  - **Invalid Rows (UnitPrice < 0): 2**  
+- The cleaned dataset was used for creating actionable business insights through Power BI visualizations.
+
+---
+
+
 ## 🧹 Data Cleaning Summary  
 
 Before Cleaning:  
@@ -85,7 +103,7 @@ Invalid Rows (UnitPrice < 0) After Cleaning: 0
 I also implemented **Page Navigation Buttons** within the dashboard to allow smooth navigation between different report pages.  
 This improves the interactivity and user experience by helping users switch between insights easily.  
 
-### 📝 Page 1 — Global Sales Overview (Including UK)  
+### 📝 Page 1 — Global Sales Overview 
 
 
 ![Dashboard Overview jpg](https://github.com/user-attachments/assets/3ad4199f-e8b5-48a4-a430-087e01c34b49)
@@ -123,22 +141,35 @@ These dashboards present key insights like revenue trends, top-performing countr
 
 
 
+---
 
+## 📚 What I Covered in This Project  
 
+In this simulation, I:  
+- ✅ Completed a project focused on creating data visualizations for **Tata Consultancy Services (TCS)**  
+- ✅ Analyzed data and designed visuals to support **executive-level decision-making**  
+- ✅ Learned how professionals handle **large datasets** and transform them into actionable business insights for leaders like the **CEO** and **CMO**  
+- ✅ Gained practical experience in **data cleaning, data visualization, and business storytelling**  
 
+This experience sharpened my skills in **data analysis, Power BI, and communicating insights with impact**.
+
+---
+
+## 🏆 Achievements  
+
+- ✅ Successfully cleaned and validated a real-world retail dataset with over **540,000 records**  
+- ✅ Identified and handled missing values, invalid rows, and duplicate entries  
+- ✅ Designed a multi-page **interactive Power BI dashboard** with slicers, filters, and navigation buttons for seamless analysis  
+- ✅ Delivered visual insights on sales trends, top-performing countries, and key customers  
+- ✅ Presented a comprehensive **global sales overview with region-specific insights** (including/excluding UK)  
+- ✅ Enhanced business storytelling through professional data visualization techniques  
+
+---
 ## 📥 How to Use This Project  
 - 🔹 Clone or download the repository  
 - 🔹 Extract datasets from ZIP files  
 - 🔹 Open `data clean.py` for Python data cleaning steps  
 - 🔹 Open `.pbix` file in Power BI Desktop to explore dashboards  
-
----
-
-## 🎯 Key Insights Delivered  
-- Revenue trends and top-performing months  
-- Top 10 countries and customers by sales  
-- Market insights excluding the UK region  
-- Product-level sales performance  
 
 ---
 
