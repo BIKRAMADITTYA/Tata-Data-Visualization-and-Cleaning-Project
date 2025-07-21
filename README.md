@@ -82,6 +82,9 @@ Invalid Rows (UnitPrice < 0) After Cleaning: 0
 
 ## 📸 Power BI Dashboard Snapshots  
 
+I also implemented **Page Navigation Buttons** within the dashboard to allow smooth navigation between different report pages.  
+This improves the interactivity and user experience by helping users switch between insights easily.  
+
 ### 📝 Page 1 — Global Sales Overview (Including UK)  
 
 
