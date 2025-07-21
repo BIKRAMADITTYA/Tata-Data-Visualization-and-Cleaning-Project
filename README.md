@@ -11,7 +11,6 @@ The project aims to deliver actionable insights for business decision-makers by 
 ## 🛠️ Tools & Technologies Used  
 - Python (Pandas, NumPy) for Data Cleaning  
 - Power BI for Data Visualization  
-- Online Retail Dataset  
 
 ---
 
@@ -84,7 +83,7 @@ Invalid Rows (UnitPrice < 0) After Cleaning: 0
 ## 📸 Power BI Dashboard Snapshots  
 
 ### 📝 Page 1 — Global Sales Overview (Including UK)  
-![Global Sales Overview (Including UK)](Dashboard_Overview.jpg)  
+
 
 ![Dashboard Overview jpg](https://github.com/user-attachments/assets/3ad4199f-e8b5-48a4-a430-087e01c34b49)
 
@@ -99,20 +98,20 @@ Invalid Rows (UnitPrice < 0) After Cleaning: 0
 ---
 
 ### 🌍 Page 2 — Global Sales Overview (Excluding UK)  
-![Global Sales Overview (Excluding UK)](Global_Sales_Overview_Excluding_UK.jpg)  
+
 ![Global Sales Overview (Excluding UK) jpg](https://github.com/user-attachments/assets/9acdaeae-5d61-4b4e-8f46-8508c7921cca)
 
 ---
 
 ### 📦 Page 3 — Product Performance Overview  
-![Product Performance Overview](Product_Performance_Overview.jpg)  
+
 ![Product Performance Overview jpg](https://github.com/user-attachments/assets/2c5077b9-5564-4025-8e76-2eb054cbd438)
 
 
 ---
 
 ### ℹ️ Page 4 — Page Information   
-![Page Information](page_information.jpg)  
+ 
 ![page information jpg](https://github.com/user-attachments/assets/f42e3fed-8add-4f7c-aef7-ad80fef2f3be)
 
 ---
