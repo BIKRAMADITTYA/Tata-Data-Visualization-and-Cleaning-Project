@@ -33,10 +33,82 @@ The project aims to deliver actionable insights for business decision-makers by 
 
 ---
 
-## 🗺️ Dashboard Snapshots  
-![Dashboard Overview](Dashboard_Overview.jpg)  
+## 🧹 Data Cleaning Summary  
+
+Before Cleaning:  
+```
+Initial Null Values:
+InvoiceNo           0
+StockCode           0
+Description      1454
+Quantity            0
+InvoiceDate         0
+UnitPrice           0
+CustomerID     135080
+Country             0
+
+Number of Duplicate Rows: 5268
+Total Rows Before Cleaning: 541909
+
+Invalid Rows (Quantity < 1): 10624
+Invalid Rows (UnitPrice < 0): 2
+```
 
 ---
+
+After Cleaning:  
+```
+Missing Values After Cleaning:
+InvoiceNo      0
+StockCode      0
+Description    0
+Quantity       0
+InvoiceDate    0
+UnitPrice      0
+CustomerID     0
+Country        0
+
+Total Rows After Cleaning: 392732
+
+Invalid Rows (Quantity < 1) After Cleaning: 0
+Invalid Rows (UnitPrice < 0) After Cleaning: 0
+```
+
+---
+
+✅ The data cleaning process ensured that all missing values, invalid entries, and duplicates were handled before moving to the visualization phase.
+
+
+---
+
+## 📸 Power BI Dashboard Snapshots  
+
+### 📝 Page 1 — Global Sales Overview (Including UK)  
+![Global Sales Overview (Including UK)](Dashboard_Overview.jpg)  
+
+---
+
+### 🌍 Page 2 — Global Sales Overview (Excluding UK)  
+![Global Sales Overview (Excluding UK)](Global_Sales_Overview_Excluding_UK.jpg)  
+
+---
+
+### 📦 Page 3 — Product Performance Overview  
+![Product Performance Overview](Product_Performance_Overview.jpg)  
+
+---
+
+### ℹ️ Page 4 — Page Information & Filter Overview  
+![Page Information](page_information.jpg)  
+
+---
+
+These dashboards present key insights like revenue trends, top-performing countries, customer performance, and global sales distribution.
+
+
+
+
+
 
 ## 📥 How to Use This Project  
 - 🔹 Clone or download the repository  
