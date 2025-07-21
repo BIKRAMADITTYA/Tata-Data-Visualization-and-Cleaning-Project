@@ -9,7 +9,7 @@ The project aims to deliver actionable insights for business decision-makers by 
 ---
 
 ## 🛠️ Tools & Technologies Used  
-- Python (Pandas, NumPy) for Data Cleaning  
+- Python (Pandas) for Data Cleaning  
 - Power BI for Data Visualization  
 
 ---
