@@ -188,6 +188,20 @@ This project was completed as part of the **Tata Data Visualisation: Empowering 
 
 ---  
 
+---
+
+## 👨‍💻 Author  
+
+**Bikramadittya Nandan**  
 
 
-## ⭐ Feel free to ⭐ star this repo if you found it useful!
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/bikramadittya-nandan-7b6285151)  
+- 🐙 [GitHub Profile](https://github.com/BIKRAMADITTYA)  
+
+Feel free to connect with me for collaborations, feedback, or discussions on data analytics projects!  
+
+---
+
+
+
+
