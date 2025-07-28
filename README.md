@@ -106,7 +106,8 @@ This improves the interactivity and user experience by helping users switch betw
 ###  — Global Sales Overview 
 
 
-![Dashboard Overview jpg](https://github.com/user-attachments/assets/3ad4199f-e8b5-48a4-a430-087e01c34b49)
+
+![Empowering_Insights_Tata_Course_Project_page-0001](https://github.com/user-attachments/assets/d707cf26-8886-4fbf-a221-841b4f9dd57c)
 
 
 ---
